@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "global-degiskenV1", "global-degiskenV1\global-degiskenV1.csproj", "{826F9EEC-5BD9-4A6C-8ED1-2A0CC3C6FB3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{826F9EEC-5BD9-4A6C-8ED1-2A0CC3C6FB3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{826F9EEC-5BD9-4A6C-8ED1-2A0CC3C6FB3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{826F9EEC-5BD9-4A6C-8ED1-2A0CC3C6FB3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{826F9EEC-5BD9-4A6C-8ED1-2A0CC3C6FB3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76CEE7D9-7608-403A-B338-8EBA500B45E4}
+	EndGlobalSection
+EndGlobal

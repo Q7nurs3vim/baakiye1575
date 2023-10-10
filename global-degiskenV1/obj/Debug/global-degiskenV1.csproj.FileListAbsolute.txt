@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\global-degiskenV1\global-degiskenV1\bin\Debug\global-degiskenV1.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\global-degiskenV1\global-degiskenV1\bin\Debug\global-degiskenV1.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\global-degiskenV1\global-degiskenV1\bin\Debug\global-degiskenV1.pdb
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\global-degiskenV1\global-degiskenV1\obj\Debug\global-degiskenV1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\global-degiskenV1\global-degiskenV1\obj\Debug\global-degiskenV1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\global-degiskenV1\global-degiskenV1\obj\Debug\global_degiskenV1.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\global-degiskenV1\global-degiskenV1\obj\Debug\global_degiskenV1.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\global-degiskenV1\global-degiskenV1\obj\Debug\global-degiskenV1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\global-degiskenV1\global-degiskenV1\obj\Debug\global-degiskenV1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\global-degiskenV1\global-degiskenV1\obj\Debug\global-degiskenV1.exe
+C:\Users\User\Desktop\KORUMASIZ\10.Nurs3vim.BAHÇE\global-degiskenV1\global-degiskenV1\obj\Debug\global-degiskenV1.pdb
